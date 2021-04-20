@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hafta4", "AllPhyton\Hafta4.pyproj", "{56F374BC-430B-4618-9E5F-3C5829F87E80}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hafta5", "Hafta5\Hafta5.pyproj", "{9C5C4F7A-3312-43ED-9EBD-25760BF31228}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hafta6", "Hafta6\Hafta6.pyproj", "{AC3AAC54-25CA-444B-8989-EB213012147C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hafta7", "Hafta7\Hafta7.pyproj", "{81E26987-EB9B-48AB-A48B-3713225E6E75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56F374BC-430B-4618-9E5F-3C5829F87E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F374BC-430B-4618-9E5F-3C5829F87E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5C4F7A-3312-43ED-9EBD-25760BF31228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5C4F7A-3312-43ED-9EBD-25760BF31228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3AAC54-25CA-444B-8989-EB213012147C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3AAC54-25CA-444B-8989-EB213012147C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E26987-EB9B-48AB-A48B-3713225E6E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E26987-EB9B-48AB-A48B-3713225E6E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0AB7FA5-381C-4F6A-AFD9-6D66E05FD986}
+	EndGlobalSection
+EndGlobal

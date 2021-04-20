@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hafta3", "Hafta3\Hafta3.pyproj", "{6A674160-8CA5-4FBC-83DE-2D702759FD15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A674160-8CA5-4FBC-83DE-2D702759FD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A674160-8CA5-4FBC-83DE-2D702759FD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FB2AAEF-7C1C-4946-A779-6E3337F4E330}
+	EndGlobalSection
+EndGlobal
